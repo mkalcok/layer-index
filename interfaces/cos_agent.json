@@ -1,0 +1,7 @@
+{
+  "id": "cos-agent",
+  "name": "cos_agent",
+  "repo": "https://github.com/mkalcok/charm-interface-cos-agent/",
+  "subdir": "src/",
+  "summary": "COS Agent interface"
+}
